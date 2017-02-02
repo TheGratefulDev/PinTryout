@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Kling/Development/eShow-Android-31/PinTryout/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Kling/Development/eShow-Android-31/PinTryout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_d57732313063e34173a0b63e59920394bada7045/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kling/Development/eShow-Android-31/PinTryout/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/Kling/Development/eShow-Android-31/PinTryout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_0c21b2914137c62111abece2d1da01b7a518c41f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kling/Development/eShow-Android-31/PinTryout/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/Kling/Development/eShow-Android-31/PinTryout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_8961a6c23cba0305ce63a13f7e442256e0fcd1fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kling/Development/eShow-Android-31/PinTryout/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/Kling/Development/eShow-Android-31/PinTryout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_be8635c3cbd84916d41fdd35dd633a3e9ff58d64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kling/Development/eShow-Android-31/PinTryout/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/Kling/Development/eShow-Android-31/PinTryout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_e812025d4663648ef71872e503eedfeeb9f88a41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kling/Development/eShow-Android-31/PinTryout/app/build/intermediates/exploded-aar/com.andrognito.pinlockview/pinlockview/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ff49fc9e7bb6c218b8158131264d4487b9eaea9">
+        <dex dex="/Users/Kling/Development/eShow-Android-31/PinTryout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.andrognito.pinlockview-pinlockview-1.0.1_e25823eac88fe88a7f77b62fa50193acd64529e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kling/Development/eShow-Android-31/PinTryout/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/Kling/Development/eShow-Android-31/PinTryout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_7d294453ed48f597f579c0851f815efff696bd5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kling/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/Kling/Development/eShow-Android-31/PinTryout/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_cf26cd7aca54c11c3a06ec1b4ccdccdc612925a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kling/Development/eShow-Android-31/PinTryout/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/Kling/Development/eShow-Android-31/PinTryout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_b9f2d6bb3342dc741e5c4afd3df928a6713c05c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kling/Development/eShow-Android-31/PinTryout/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/Kling/Development/eShow-Android-31/PinTryout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_207b207a63250df2d6acc29aa29c18984004e092/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kling/Development/eShow-Android-31/PinTryout/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/Kling/Development/eShow-Android-31/PinTryout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_eb07fc1fdd7f14ae1e1e897308611ee17a3c337d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kling/Development/eShow-Android-31/PinTryout/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2eae1234be082b242e18d81d01dfdb389c23498">
+        <dex dex="/Users/Kling/Development/eShow-Android-31/PinTryout/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_907abb0383c3fa0be04e04e56667ffd8ac4f6564/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kling/Development/eShow-Android-31/PinTryout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/Kling/Development/eShow-Android-31/PinTryout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_c0264a94de9a220b90c2e869213656f3a4d242b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kling/Development/eShow-Android-31/PinTryout/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b084dcc055995588682292a40d4a9d688ddc128f">
+        <dex dex="/Users/Kling/Development/eShow-Android-31/PinTryout/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_64af3d21953f620818ae146779c748a1011c1db5/classes.dex" />
+    </item>
+
+</items>
